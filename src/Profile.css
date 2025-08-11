@@ -1,0 +1,28 @@
+.profile {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+.profile header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile section {
+  margin-bottom: 1.5rem;
+}
+
+.profile ul {
+  padding-left: 1.2rem;
+}
+
+.profile h1 {
+  margin-bottom: 0.25rem;
+}
+
+.profile .contact {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
